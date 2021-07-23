@@ -1,0 +1,235 @@
+.mediaViewInfo {
+	--web-view-name: CONTACT;
+	--web-view-id: CONTACT;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: CONTACT;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#CONTACT {
+	position: absolute;
+	width: 1920px;
+	height: 1388px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: CONTACT;
+	--web-view-id: CONTACT;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#modular-refinery-in-Brass {
+	position: absolute;
+	width: 2107.293px;
+	height: 1102.276px;
+	left: -115.958px;
+	top: -83.776px;
+	overflow: visible;
+}
+#Rectangle_1_m {
+	fill: url(#Rectangle_1_m);
+}
+.Rectangle_1_m {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1019px;
+	left: 0px;
+	top: 0px;
+}
+#About {
+	left: 1183px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Sudsidiary {
+	left: 1722px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Market_Forces {
+	left: 1493px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Services {
+	left: 1325px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 1802px;
+	height: 780px;
+	left: 59px;
+	top: 510px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1802px;
+	height: 780px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_3 {
+	fill: rgba(74,67,67,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 69px;
+	left: 58px;
+	top: 100px;
+}
+#OUR_CONTACT {
+	left: 110px;
+	top: 111px;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(252,251,251,1);
+}
+#Plot_475_Trans_Amadi_Industria {
+	left: 192px;
+	top: 772px;
+	position: absolute;
+	overflow: hidden;
+	width: 574px;
+	height: 169px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#telephone {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 130px;
+	top: 971px;
+	overflow: visible;
+}
+#ID234-8093430053_234-817344055 {
+	left: 192px;
+	top: 971px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 86px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#gmail {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 130px;
+	top: 1087px;
+	overflow: visible;
+}
+#inforovexoilandgascom_rovexoil {
+	left: 192px;
+	top: 1087px;
+	position: absolute;
+	overflow: visible;
+	width: 503px;
+	height: 124px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#imagenew {
+	position: absolute;
+	width: 173px;
+	height: 78px;
+	left: 59px;
+	top: 48px;
+	overflow: visible;
+}
+#google-maps {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 130px;
+	top: 772px;
+	overflow: visible;
+}

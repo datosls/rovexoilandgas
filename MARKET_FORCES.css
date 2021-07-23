@@ -1,0 +1,287 @@
+.mediaViewInfo {
+	--web-view-name: MARKET FORCES;
+	--web-view-id: MARKET_FORCES;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: MARKET_FORCES;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#MARKET_FORCES {
+	position: absolute;
+	width: 1920px;
+	height: 3056px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: MARKET FORCES;
+	--web-view-id: MARKET_FORCES;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#modular-refinery-in-Brass {
+	position: absolute;
+	width: 2107.292px;
+	height: 1102.276px;
+	left: -115.958px;
+	top: -83.776px;
+	overflow: visible;
+}
+#Rectangle_1_m {
+	fill: url(#Rectangle_1_m);
+}
+.Rectangle_1_m {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1019px;
+	left: 0px;
+	top: 0px;
+}
+#About {
+	left: 1231px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Subsidiary {
+	left: 1541px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Contact {
+	left: 1733px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Services {
+	left: 1373px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 1802px;
+	height: 2404px;
+	left: 59px;
+	top: 542px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1802px;
+	height: 2404px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_3 {
+	fill: rgba(74,67,67,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 457px;
+	height: 69px;
+	left: 58px;
+	top: 100px;
+}
+#OUR_MARKET_FOCUS {
+	left: 117px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(252,251,251,1);
+}
+#Oil__Gas {
+	left: 119px;
+	top: 764px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 44px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Our_business_focuses_on_the_Oi {
+	left: 121px;
+	top: 845px;
+	position: absolute;
+	overflow: visible;
+	width: 1680px;
+	height: 268px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#image11 {
+	position: absolute;
+	width: 1027px;
+	height: 388.48px;
+	left: 121px;
+	top: 1150px;
+	overflow: visible;
+}
+#Power {
+	left: 121px;
+	top: 1575px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 49px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#The_power_sector_remains_the_d {
+	transform: matrix(1,0,0,1,121,1661) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1253px;
+	height: 229px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#image7 {
+	position: absolute;
+	width: 672px;
+	height: 298.162px;
+	left: 121px;
+	top: 1926.52px;
+	overflow: visible;
+}
+#Water__Process_Technologies {
+	left: 121px;
+	top: 2262px;
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 77px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Water__Process_Technologies_in {
+	left: 121px;
+	top: 2376px;
+	position: absolute;
+	overflow: hidden;
+	width: 1458px;
+	height: 255px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#_Automation_and_Control_Soluti {
+	transform: matrix(1,0,0,1,218.9993,2610) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 832px;
+	height: 273px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#imagenew {
+	position: absolute;
+	width: 173px;
+	height: 78px;
+	left: 59px;
+	top: 48px;
+	overflow: visible;
+}

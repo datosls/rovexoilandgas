@@ -1,0 +1,305 @@
+.mediaViewInfo {
+	--web-view-name: SUDSIDIARY;
+	--web-view-id: SUDSIDIARY;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SUDSIDIARY;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#SUDSIDIARY {
+	position: absolute;
+	width: 1920px;
+	height: 2686px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: SUDSIDIARY;
+	--web-view-id: SUDSIDIARY;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#modular-refinery-in-Brass {
+	position: absolute;
+	width: 2107.293px;
+	height: 1102.276px;
+	left: -115.958px;
+	top: -83.776px;
+	overflow: visible;
+}
+#Rectangle_1_m {
+	fill: url(#Rectangle_1_m);
+}
+.Rectangle_1_m {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1019px;
+	left: 0px;
+	top: 0px;
+}
+#About {
+	left: 1197px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Market_Forces {
+	left: 1505px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Contact {
+	left: 1733px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Services {
+	left: 1338px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 1802px;
+	height: 2018px;
+	left: 59px;
+	top: 555px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1802px;
+	height: 2018px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_3 {
+	fill: rgba(74,67,67,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	height: 69px;
+	left: 58px;
+	top: 90px;
+}
+#OUR_SUBSIDIARY {
+	left: 117px;
+	top: 100px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(252,251,251,1);
+}
+#Our_vision_at_ROVEX_ENERGY__OI {
+	left: 125px;
+	top: 1029px;
+	position: absolute;
+	overflow: visible;
+	width: 1396px;
+	height: 126px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Crude_Oil_Petroleum_Products_a {
+	left: 125px;
+	top: 1196px;
+	position: absolute;
+	overflow: hidden;
+	width: 720px;
+	height: 52px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#We_understand_that_the_primary {
+	left: 125px;
+	top: 1289px;
+	position: absolute;
+	overflow: hidden;
+	width: 1118px;
+	height: 127px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#image10 {
+	position: absolute;
+	width: 384.338px;
+	height: 277px;
+	left: 1373.162px;
+	top: 1196px;
+	overflow: visible;
+}
+#Crude_Marketing_Services_ {
+	left: 125px;
+	top: 1457px;
+	position: absolute;
+	overflow: hidden;
+	width: 317px;
+	height: 42px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(6,6,6,1);
+}
+#Purchasing_ROVEXs_large_and_di {
+	left: 164px;
+	top: 1540px;
+	position: absolute;
+	overflow: hidden;
+	width: 1683px;
+	height: 292px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#rovex_energy_logo {
+	position: absolute;
+	width: 363.188px;
+	height: 272.212px;
+	left: 125px;
+	top: 715.788px;
+	overflow: visible;
+}
+#______ {
+	left: 125px;
+	top: 1540px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	height: 280px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#image12 {
+	position: absolute;
+	width: 853px;
+	height: 272px;
+	left: 125px;
+	top: 1873px;
+	overflow: visible;
+}
+#Why_ROVEX_ {
+	left: 125px;
+	top: 2186px;
+	position: absolute;
+	overflow: hidden;
+	width: 301px;
+	height: 47px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Our_corporate_values_are_expli {
+	left: 129px;
+	top: 2274px;
+	position: absolute;
+	overflow: visible;
+	width: 1663px;
+	height: 238px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#imagenew {
+	position: absolute;
+	width: 173px;
+	height: 78px;
+	left: 59px;
+	top: 45px;
+	overflow: visible;
+}

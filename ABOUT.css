@@ -1,0 +1,366 @@
+.mediaViewInfo {
+	--web-view-name: ABOUT;
+	--web-view-id: ABOUT;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ABOUT;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#ABOUT {
+	position: absolute;
+	width: 1920px;
+	height: 3177px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: ABOUT;
+	--web-view-id: ABOUT;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#modular-refinery-in-Brass {
+	position: absolute;
+	width: 2107.293px;
+	height: 1102.276px;
+	left: -115.958px;
+	top: -83.776px;
+	overflow: visible;
+}
+#Rectangle_1_m {
+	fill: url(#Rectangle_1_m);
+}
+.Rectangle_1_m {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1019px;
+	left: 0px;
+	top: 0px;
+}
+#Services {
+	left: 1144px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Subsidiary {
+	left: 1541px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Contact {
+	left: 1733px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Market_Forces {
+	left: 1312px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#ROVEX_ENGINEERING_AND_OIL__GAS {
+	left: 68px;
+	top: 482px;
+	position: absolute;
+	overflow: visible;
+	width: 1061px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(246,237,237,1);
+}
+#is_a_wholly_Nigerian_company_i {
+	left: 68px;
+	top: 551px;
+	position: absolute;
+	overflow: visible;
+	width: 1398px;
+	height: 215px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 34px;
+	color: rgba(252,251,251,1);
+}
+#Path_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1780px;
+	height: 1997.418px;
+	left: 70px;
+	top: 1052px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_3 {
+	fill: rgba(74,67,67,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	height: 68px;
+	left: 111px;
+	top: 1089px;
+}
+#ABOUT_US {
+	left: 164px;
+	top: 1102px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(252,251,251,1);
+}
+#ROVEX_ENGINEERING_AND_OIL__GAS_w {
+	left: 111px;
+	top: 1220px;
+	position: absolute;
+	overflow: hidden;
+	width: 1238px;
+	height: 209px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#image3 {
+	position: absolute;
+	width: 1438.93px;
+	height: 397px;
+	left: 117.035px;
+	top: 1499px;
+	overflow: visible;
+}
+#ROVEX_ENGINEERING_AND_OIL__GAS_y {
+	left: 105px;
+	top: 1966px;
+	position: absolute;
+	overflow: visible;
+	width: 1518px;
+	height: 171px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Mission_ {
+	left: 117px;
+	top: 2207px;
+	position: absolute;
+	overflow: hidden;
+	width: 301px;
+	height: 54px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+#To_continually_improve_our_ser {
+	left: 149px;
+	top: 2331px;
+	position: absolute;
+	overflow: visible;
+	width: 1304px;
+	height: 102px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Our_Goal {
+	left: 105px;
+	top: 2503px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 54px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+# {
+	left: 118px;
+	top: 2331px;
+	position: absolute;
+	overflow: hidden;
+	width: 2px;
+	height: 24px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#_ {
+	left: 111px;
+	top: 2841px;
+	position: absolute;
+	overflow: hidden;
+	width: 39px;
+	height: 24px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#__ {
+	left: 104px;
+	top: 2627px;
+	position: absolute;
+	overflow: hidden;
+	width: 27px;
+	height: 26px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#To_establish_a_formidable_comp {
+	left: 149px;
+	top: 2626px;
+	position: absolute;
+	overflow: hidden;
+	width: 1376px;
+	height: 72px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Vision_ {
+	left: 105px;
+	top: 2723px;
+	position: absolute;
+	overflow: hidden;
+	width: 301px;
+	height: 48px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+#To_continue_being_a_unique_cli {
+	left: 149px;
+	top: 2841px;
+	position: absolute;
+	overflow: visible;
+	width: 1512px;
+	height: 104px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#imagenew {
+	position: absolute;
+	width: 173px;
+	height: 78px;
+	left: 70px;
+	top: 45px;
+	overflow: visible;
+}
+#Dae {
+	left: 1774px;
+	top: 923px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Creattion Demo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(255,251,251,1);
+}

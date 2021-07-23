@@ -1,0 +1,389 @@
+.mediaViewInfo {
+	--web-view-name: SERVICES;
+	--web-view-id: SERVICES;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SERVICES;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#SERVICES {
+	position: absolute;
+	width: 1920px;
+	height: 4805px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: SERVICES;
+	--web-view-id: SERVICES;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#modular-refinery-in-Brass {
+	position: absolute;
+	width: 2107.292px;
+	height: 1102.276px;
+	left: -115.958px;
+	top: -83.776px;
+	overflow: visible;
+}
+#Rectangle_1_m {
+	fill: url(#Rectangle_1_m);
+}
+.Rectangle_1_m {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1019px;
+	left: 0px;
+	top: 0px;
+}
+#About {
+	left: 1170px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Subsidiary {
+	left: 1541px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Contact {
+	left: 1733px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Market_Forces {
+	left: 1312px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(246,237,237,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 1802px;
+	height: 4136px;
+	left: 59px;
+	top: 537px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1802px;
+	height: 4136px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_3 {
+	fill: rgba(74,67,67,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 69px;
+	left: 58px;
+	top: 100px;
+}
+#OUR_SERVICES {
+	left: 117px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(252,251,251,1);
+}
+#Engineering_Services {
+	left: 120px;
+	top: 796px;
+	position: absolute;
+	overflow: visible;
+	width: 628px;
+	height: 49px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#We_are_involved_in_engineering {
+	left: 117px;
+	top: 884px;
+	position: absolute;
+	overflow: visible;
+	width: 1020px;
+	height: 213px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(145,138,138,1);
+}
+#image2 {
+	position: absolute;
+	width: 380px;
+	height: 269px;
+	left: 1277px;
+	top: 884px;
+	overflow: visible;
+}
+#Procurement_ {
+	left: 117px;
+	top: 1136px;
+	position: absolute;
+	overflow: hidden;
+	width: 301px;
+	height: 44px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(4,4,4,1);
+}
+#Rovex_Engineering_and_Oil_and_ {
+	left: 117px;
+	top: 1219px;
+	position: absolute;
+	overflow: hidden;
+	width: 960px;
+	height: 184px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Logistics_ {
+	left: 117px;
+	top: 1442px;
+	position: absolute;
+	overflow: hidden;
+	width: 203px;
+	height: 41px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rovex_Engineering_and_Oil_and__ {
+	left: 117px;
+	top: 1522px;
+	position: absolute;
+	overflow: hidden;
+	width: 1023px;
+	height: 204px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#image6 {
+	position: absolute;
+	width: 563px;
+	height: 333px;
+	left: 117px;
+	top: 1765px;
+	overflow: visible;
+}
+#Our_Offerings {
+	left: 117px;
+	top: 2137px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 43px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#_Distributed_Control_Systems_D {
+	left: 117px;
+	top: 2219px;
+	position: absolute;
+	overflow: visible;
+	width: 1149px;
+	height: 990px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#image8 {
+	position: absolute;
+	width: 603px;
+	height: 357px;
+	left: 117px;
+	top: 3248px;
+	overflow: visible;
+}
+#Water__Process_Technologies {
+	left: 117px;
+	top: 3644px;
+	position: absolute;
+	overflow: visible;
+	width: 484px;
+	height: 51px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(6,6,6,1);
+}
+#ROVEX_ENGINEERING_AND_OIL__GAS {
+	left: 117px;
+	top: 3734px;
+	position: absolute;
+	overflow: hidden;
+	width: 1007px;
+	height: 206px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Exploration {
+	left: 119px;
+	top: 3979px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 45px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ROVEX_ENGINEERING_AND_OIL__GAS_ {
+	left: 123px;
+	top: 4063px;
+	position: absolute;
+	overflow: visible;
+	width: 995px;
+	height: 178px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Turbine_Solutions {
+	left: 123px;
+	top: 4280px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 80px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ROVEX_ENGINEERING_AND_OIL__GAS_bb {
+	left: 123px;
+	top: 4399px;
+	position: absolute;
+	overflow: visible;
+	width: 1057px;
+	height: 208px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#imagenew {
+	position: absolute;
+	width: 173px;
+	height: 78px;
+	left: 59px;
+	top: 48px;
+	overflow: visible;
+}
