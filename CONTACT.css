@@ -1,3 +1,15 @@
+@viewport {
+	width: device-width;
+	zoom: 1.0;
+}
+
+@-ms-viewport {
+	width: device-width ;
+}
+
+@media screen and (max-width: 100%) {
+	width: 100% ;
+}
 .mediaViewInfo {
 	--web-view-name: CONTACT;
 	--web-view-id: CONTACT;
@@ -11,7 +23,7 @@
 }
 * {
 	margin: 0;
-	padding: 0;
+	padding: 1;
 	box-sizing: border-box;
 	border: none;
 }
@@ -114,7 +126,7 @@
 #Rectangle_4 {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
-	stroke-width: 10px;
+	stroke-width: 0px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
@@ -129,8 +141,8 @@
 	top: 0px;
 }
 #Rectangle_3 {
-	fill: rgba(74,67,67,1);
-	stroke: rgba(112,112,112,1);
+	fill: rgba(100, 100, 206);
+	stroke: rgba(100, 100, 206);
 	stroke-width: 10px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;

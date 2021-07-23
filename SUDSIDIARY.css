@@ -1,3 +1,16 @@
+@viewport {
+	width: device-width;
+	zoom: 1.0;
+}
+
+@-ms-viewport {
+	width: device-width ;
+}
+
+@media screen and (max-width: 100%) {
+	width: 100% ;
+}
+
 .mediaViewInfo {
 	--web-view-name: SUDSIDIARY;
 	--web-view-id: SUDSIDIARY;
@@ -11,7 +24,7 @@
 }
 * {
 	margin: 0;
-	padding: 0;
+	padding: 1;
 	box-sizing: border-box;
 	border: none;
 }
@@ -114,7 +127,7 @@
 #Rectangle_4 {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
-	stroke-width: 10px;
+	stroke-width: 0px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
@@ -129,8 +142,8 @@
 	top: 0px;
 }
 #Rectangle_3 {
-	fill: rgba(74,67,67,1);
-	stroke: rgba(112,112,112,1);
+	fill: rgba(100, 100, 206);
+	stroke: rgba(100, 100, 206);
 	stroke-width: 10px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
@@ -171,15 +184,15 @@
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 25px;
-	color: rgba(112,112,112,1);
+	color: rgb(0, 0, 0);
 }
 #Crude_Oil_Petroleum_Products_a {
 	left: 125px;
 	top: 1196px;
 	position: absolute;
-	overflow: hidden;
-	width: 720px;
-	height: 52px;
+	overflow: visible;
+	width: 1249px;
+	height: 93px;
 	text-align: left;
 	font-family: Poppins;
 	font-style: normal;
@@ -199,7 +212,7 @@
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 25px;
-	color: rgba(112,112,112,1);
+	color: rgb(0, 0, 0);
 }
 #image10 {
 	position: absolute;
@@ -214,8 +227,8 @@
 	top: 1457px;
 	position: absolute;
 	overflow: hidden;
-	width: 317px;
-	height: 42px;
+	width: 1000px;
+	height: 63px;
 	text-align: left;
 	font-family: Poppins;
 	font-style: normal;
@@ -235,7 +248,7 @@
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 25px;
-	color: rgba(112,112,112,1);
+	color: rgb(0, 0, 0);
 }
 #rovex_energy_logo {
 	position: absolute;
@@ -293,7 +306,7 @@
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 25px;
-	color: rgba(112,112,112,1);
+	color: rgb(0, 0, 0);
 }
 #imagenew {
 	position: absolute;
