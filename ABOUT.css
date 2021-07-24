@@ -1,15 +1,3 @@
-@viewport {
-	width: device-width;
-	zoom: 1.0;
-}
-
-@-ms-viewport {
-	width: device-width ;
-}
-
-@media screen and (max-width: 100%) {
-	width: 100% ;
-}
 
 
 .mediaViewInfo {
@@ -377,4 +365,17 @@
 	font-weight: normal;
 	font-size: 34px;
 	color: rgba(255,251,251,1);
+}
+
+@media screen and (max-width: 100%) {
+
+}
+
+@viewport {
+	width: device-width;
+	zoom: 1.0;
+}
+
+@-ms-viewport {
+	width: device-width ;
 }
