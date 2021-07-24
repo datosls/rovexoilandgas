@@ -367,9 +367,5 @@
 	color: rgba(255,251,251,1);
 }
 
-@media screen and (max-width: 480px) {
-	*{
-		font-size: 18px;
-	}
-}
+
 
