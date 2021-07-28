@@ -367,5 +367,6 @@
 	color: rgba(255,251,251,1);
 }
 
-
+@media (max-width : 480px ){
+}
 
